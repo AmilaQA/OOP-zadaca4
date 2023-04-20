@@ -1,4 +1,5 @@
 # OOP-zadaca4
+TASK 1
 Create the interfaces Flight and Swim.
 
 The Flight interface has 1 method:
@@ -17,7 +18,7 @@ Plane implementing Flight — the fly method should return “Flies with engine�
 
 Duck implementing Swim and Flight — the swim method should return “Kinda floats”
 
-                                                           — the fly method returns “Flies with wings”
+ — the fly method returns “Flies with wings”
 
 Pegasus implementing Flight — the fly method should return “Flies with wings”
 
@@ -27,8 +28,8 @@ Create a Main class which will test your code.
 
 -   Create an object for each of these 5 classes.
 
-- The class is supposed to have 2 Lists: 
-	An ArrayList containing things that can fly 
+- The class is supposed to have 2 Lists:
+	An ArrayList containing things that can fly
 	A LinkedList of things that can swim
 
 - Loop through both lists and print the output of fly and swim methods of all the objects in these
@@ -37,7 +38,7 @@ Create a Main class which will test your code.
 NOTE: Implementing multiple interfaces is done by separating the Interface names that we
 want to implement with a comma. A implements B, C ...
 ———————————————————————————————————————————
-
+TASK 2
 Create the abstract class Shape.
 
 The Shape has 1 attribute: colour (String)
